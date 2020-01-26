@@ -1,4 +1,4 @@
-# DOD ??
+# DOD ✔️
 
 **Definition of done** is: a list of criteria that has to be met before any work can be considered **done**. _Failure to meet any one of these conditions means the work is not complete_.
 DoD could have different types, ex: DOD Task (Front/Back/DevOps/Doc/Design..) DOD feature, DOD Sprint, DOD release...
@@ -21,6 +21,7 @@ Below is kind of a generique DOD.
 
 PS: DoD can be modified, but what is important is that the initial version **must be agreed before the first Sprint**.
 
+```
                                +------+
                                |      |
 +----+    +----------+    +----v---+  |
@@ -32,3 +33,4 @@ PS: DoD can be modified, but what is important is that the initial version **mus
                           |done|
                           +----+
 
+```
