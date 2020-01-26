@@ -3,7 +3,7 @@ Starter for some practice, disciplines and standards for a better 💪 software 
 
 ## Roadmap
 
- - [ ] DOD definition
+ - [ ] [(WIP) DOD](DOD.md)
  - [ ] Work Breakdown (definition of Features, Task, sub ...)
  - [ ] Validation process
  - [ ] Development process
